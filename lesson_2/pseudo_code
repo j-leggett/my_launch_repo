@@ -1,0 +1,34 @@
+A METOD THAT RETURNS THE SUM OF TWO INTEGERS
+START
+
+PRINT what is the first number
+
+GET first_number = value from user
+
+PRINT what is the second number
+
+GET second_number = value from user
+
+answer = second_number add first_number
+
+PRINT answer
+
+END
+
+START
+# a method that takes an array of strings, and returns a string
+that is all those strings concatenated together
+
+SET array1
+
+DEF method(parameter a)
+  READ array
+  IF array has multiple strings 
+    iterate over array so they join in to one string
+  ELSE
+    do nothing
+  END
+
+END
+
+
